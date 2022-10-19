@@ -1,0 +1,8 @@
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\bin\Debug\examen.exe.config
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\bin\Debug\examen.exe
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\bin\Debug\examen.pdb
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\obj\Debug\examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\obj\Debug\examen.exe
+C:\Users\nicol\Desktop\Examen modifica 1\examen\examen\obj\Debug\examen.pdb
